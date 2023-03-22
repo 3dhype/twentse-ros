@@ -7,6 +7,8 @@ Er zwerven verschillende benaderingen van het Twentse Ros rond op het internet. 
 bron: https://ootmarsum.madebyjessie.nl/goed-gewapend/
 
 # Aanpassing
+Het originele ontwerp stamt uit het analoge tijdperk, dus een schaalbare afbeelding was niet voorhanden. Ook hier wil deze repository in voorzien zodat het beeldmerk/heraldisch symbool van de Twentse Ros goed gebruikt kan worden.
+
 Het vlekje op het voorhoofd van het paard heeft menigeen doen afvragen of het nu het oog is of niet. En als je het mij vraagt trekt het enorm de aandacht. Vandaar dat ik twee versies heb gemaakt, een met en een zonder. Het ontwerp zonder het vlekje maakt het symbool ineens een stuk statiger.
 
 ![compare](https://user-images.githubusercontent.com/39619732/226972327-23ef4662-10f2-4d7a-86b9-b6b7e77a8544.svg)
