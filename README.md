@@ -11,7 +11,8 @@ Het originele ontwerp stamt uit het analoge tijdperk, dus een schaalbare afbeeld
 
 Het vlekje op het voorhoofd van het paard heeft menigeen doen afvragen of het nu het oog is of niet. En als je het mij vraagt trekt het enorm de aandacht. Vandaar dat ik twee versies heb gemaakt, een met en een zonder. Het ontwerp zonder het vlekje maakt het symbool ineens een stuk statiger.
 
-![compare](https://user-images.githubusercontent.com/39619732/226972327-23ef4662-10f2-4d7a-86b9-b6b7e77a8544.svg)
+![compare](https://user-images.githubusercontent.com/39619732/226985581-7bc2fd8a-bde2-4a23-b86f-e2a1264a7c6d.svg)
+
 
 # Variaties
 De verschillende variaties zijn geinspireerd door bestaande ontwerpen en teruggebracht naar het zogenaamde origineel.
