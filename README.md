@@ -1,7 +1,7 @@
 # De Twentse Ros
 Betere bron voor het heraldische symbool van de Twentse Ros.
 
-Er zwerven verschillende benaderingen van het Twentse Ros rond op het internet. Vlaggendrukkers gebruiken een versimpelde versie van het paard.
+Er zwerven op het internet verschillende benaderingen van het Twentse Ros rond. Vlaggendrukkers gebruiken een versimpelde versie van het paard.
 
 "Toen begin jaren tachtig van de vorige eeuw Twente kans kreeg provincie te worden, werd door het toenmalige bestuur van het gemeentelijk samenwerkingsverband  ‘Gewest Twente’, een eigen regiowapen aangevraagd bij de Hooge Raad van Adel. Een vormgeving die nog niet in gebruik was, werd aan Twente toegewezen. Een fors paard, meer een Gelders trekpaard, steigerend , in zilver op een rood schild en een kroon van een Hoogheemraadschap. Een paar jaar is dat wapen gebruikt bij de campagnes en verdween van het toneel toen in 1985 het kabinet besliste dat de splitsing van Overijssel niet door ging."
 bron: https://ootmarsum.madebyjessie.nl/goed-gewapend/
